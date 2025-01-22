@@ -73,10 +73,6 @@ Here are some ideas to get you started: -->
 <a href="https://www.instagram.com/hirenjoshi6/#" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
 ## 📊 My GitHub Data:
 
 <div align="center">
