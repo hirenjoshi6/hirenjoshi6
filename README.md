@@ -57,7 +57,7 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <p>
-<a href="https://johiren.vercel.app/" target="_blank"><img alt="Github" src="https://github.com/hirenjoshi6" height="30px" /></a> 
+<a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/hirenjoshi6.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
 <a href="https://x.com/hirenjoshi6" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
 <a href="https://www.linkedin.com/in/hiren-joshi-39458a65/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
