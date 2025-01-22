@@ -29,6 +29,15 @@ Here are some ideas to get you started: -->
 ## 🛠️ Technologies and Tools I use:
 
 <p>
+<img alt="iOS" src="https://img.shields.io/badge/iOS-00599C?style=for-the-badge&logo=iOS&logoColor=white" height="25px"/>
+<img alt="Swift" src="https://img.shields.io/badge/Swift-00599C?style=for-the-badge&logo=Swift&logoColor=white" height="25px"/>
+<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-00599C?style=for-the-badge&logo=SwiftUI&logoColor=white" height="25px"/>
+<img alt="Objective C" src="https://img.shields.io/badge/Objective-C-00599C?style=for-the-badge&logo=Objectve-C&logoColor=white" height="25px"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=Android&logoColor=white" height="25px"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white" height="25px"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=Kotlin&logoColor=white" height="25px"/>
+<img alt="React Native" src="https://img.shields.io/badge/React-Native-00599C?style=for-the-badge&logo=React-Native&logoColor=white" height="25px"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-00599C?style=for-the-badge&logo=Flutter&logoColor=white" height="25px"/>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -57,7 +66,7 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <p>
-<a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/hirenjoshi6.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+<a href="https://johiren.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/hirenjoshi6.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
 <a href="https://x.com/hirenjoshi6" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
 <a href="https://www.linkedin.com/in/hiren-joshi-39458a65/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
